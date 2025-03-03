@@ -9,9 +9,11 @@ WrongAge = Age <  "13"
 
 if WrongAge
   puts "You are under the age of 13.. What the fuck are you doing here..."
+  sleep(10)
   return
 elsif Age == "h"
   puts "Shaddup"
+  sleep(3)
   return
 else
   puts "Welcome in :CoolSunglassesEmoji:"
@@ -29,23 +31,24 @@ if FavoriteApple == "honey crisp" # Minorly long if statement since I dont know 
   puts "I really didnt care anyway"
   sleep(0.5)
   puts "You passed"
-  sleep(100)
+  sleep(3)
 elsif FavoriteApple == "granny smith"
   puts "Your my favorite person."
   sleep(0.5)
   puts "You passed with flying pride colors :3"
   sleep(0.5)
   print " (that means your cute and gay for the uninformed)"
-  sleep(100)
+  sleep(3)
 elsif FavoriteApple == "fiji"
   puts "Meh, better as a sub to Granny Smith."
   sleep(0.5)
   puts "Passed the test."
-  sleep(100)
+  sleep(3)
 else
   puts "You Failed The Test."
   sleep(1.5)
   puts "...loser"
-  sleep(100)
+  sleep(5)
 end
 # I am so adding more onto this for funsies once I learn something USEFUL for this app...
+# Hell I may even do Sinarta here...
