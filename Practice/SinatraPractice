@@ -1,6 +1,0 @@
-require 'sinatra'
-
-get '/' do
-  'Hello world!'
-end
-# Why is this not Commiting...
