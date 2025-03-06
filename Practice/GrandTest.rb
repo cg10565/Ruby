@@ -39,7 +39,7 @@ elsif FavoriteApple == "granny smith"
   sleep(0.5)
   print " (that means your cute and gay for the uninformed)"
   sleep(3)
-elsif FavoriteApple == "fiji"
+elsif FavoriteApple == "fiji" # this doesnt work
   puts "Meh, better as a sub to Granny Smith."
   sleep(0.5)
   puts "Passed the test."
